@@ -5,7 +5,7 @@ cask "satellite" do
   url "https://updates.trever.com/mac/releases/Satellite-#{version}.dmg"
   name "Satellite"
   desc "Menu bar and notch player for SiriusXM subscribers"
-  homepage "https://github.com/trever/homebrew-tap"
+  homepage "https://www.trever.com/siriusxm-for-mac"
 
   livecheck do
     url "https://updates.trever.com/mac/appcast.xml"
