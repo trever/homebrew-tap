@@ -1,6 +1,6 @@
 cask "satellite" do
-  version "0.2.0"
-  sha256 "9b4ba64eb1e5aa753a9e92e5aba073710b3f576819a52b1a9300c3ab6a811bf0"
+  version "0.2.1"
+  sha256 "002c765437a7a8e3bf01178e8a0f73e52cd868de3faef93f068d462dada9417d"
 
   url "https://updates.trever.com/mac/releases/Satellite-#{version}.dmg"
   name "Satellite"
