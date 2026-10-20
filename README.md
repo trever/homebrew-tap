@@ -9,3 +9,13 @@ brew install --cask trever/tap/satellite
 ```
 
 Satellite updates itself (Sparkle), so `brew upgrade` skips it unless you pass `--greedy`.
+
+### Screenshots
+
+| Menu bar | Quick switcher |
+|---|---|
+| ![Menu bar popover](screenshots/menu-bar-popover.png) | ![Quick switcher](screenshots/quick-switcher.png) |
+
+![Main window](screenshots/window-listen.png)
+
+![Favorites on speed dial](screenshots/favorites.png)
