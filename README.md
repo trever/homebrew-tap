@@ -12,10 +12,14 @@ Satellite updates itself (Sparkle), so `brew upgrade` skips it unless you pass `
 
 ### Screenshots
 
+![Now-playing island in the notch](screenshots/notch-island.png)
+
 | Menu bar | Quick switcher |
 |---|---|
 | ![Menu bar popover](screenshots/menu-bar-popover.png) | ![Quick switcher](screenshots/quick-switcher.png) |
 
-![Main window](screenshots/window-listen.png)
+![Listen now, with favorites on speed dial](screenshots/listen-now.webp)
 
-![Favorites on speed dial](screenshots/favorites.png)
+![Browse every live channel and Xtra station](screenshots/browse.webp)
+
+![Rebindable global hotkeys](screenshots/settings-hotkeys.webp)
