@@ -1,18 +1,11 @@
-# Trever Tap
+# Trever's Homebrew tap
 
-## How do I install these formulae?
+## Satellite
 
-`brew install trever/tap/<formula>`
+A menu bar and notch player for SiriusXM subscribers on macOS 14 or later. Unofficial: not affiliated with, endorsed by or sponsored by SiriusXM. You sign in with your own subscription.
 
-Or `brew tap trever/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "trever/tap"
-brew "<formula>"
+```bash
+brew install --cask trever/tap/satellite
 ```
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Satellite updates itself (Sparkle), so `brew upgrade` skips it unless you pass `--greedy`.
